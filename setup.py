@@ -9,7 +9,7 @@ setuptools.setup(
     author_email = "adeoluwaagbakosi@gmail.com",
     description = "An interactive data visualization library",
     long_description = long_description,
-    url = "",
+    url = "https://github.com/Diachronic-Technologies/D-Analyst",
     project_urls = {
         "Bug Tracker":""
     },
@@ -18,7 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir = {"":"src"},
-    packages=setuptools.find_packages(where="src"),
+    package_dir = {"":"analyst"},
+    packages=setuptools.find_packages(where="analyst"),
     python_requires=">=3.6",
 )
