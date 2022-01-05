@@ -5,6 +5,7 @@ setup.py
 analyst/D_Analyst.egg-info/PKG-INFO
 analyst/D_Analyst.egg-info/SOURCES.txt
 analyst/D_Analyst.egg-info/dependency_links.txt
+analyst/D_Analyst.egg-info/requires.txt
 analyst/D_Analyst.egg-info/top_level.txt
 analyst/managers/__init__.py
 analyst/managers/default_manager.py

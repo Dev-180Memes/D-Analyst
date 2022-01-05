@@ -21,4 +21,5 @@ setuptools.setup(
     package_dir = {"":"analyst"},
     packages=setuptools.find_packages(where="analyst"),
     python_requires=">=3.6",
+    install_requires = ['qtools']
 )
