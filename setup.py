@@ -4,8 +4,8 @@ long_description = "D-Analyst is a high performance interactive visualization to
 
 setuptools.setup(
     name = "D-Analyst",
-    version = "1.0.0",
-    author = "Agbakosi Adeoluwa(180 Memes), Securus Dev Group",
+    version = "1.0.0-beta",
+    author = "Agbakosi Adeoluwa(180 Memes), Diachronic Technologies",
     author_email = "adeoluwaagbakosi@gmail.com",
     description = "An interactive data visualization library",
     long_description = long_description,
