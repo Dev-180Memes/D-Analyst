@@ -1,6 +1,14 @@
 ## D-Analyst : High Performance Visualization Tool
 --------------------------------------------------
+D-Analyst is a high performance data visualization built with python and based on OpenGL.
+It allows to interactively visualize very large plot consisitng of up to millions of data in real time.
 
+D-Analyst high-level interface is inspired by Matplotlib, Seaborns and Plotly.
+The low-level interface can be used to write complex interactive visualization
+GUIs with Qt that deal with large 2D/3D datasets.
+
+This tools visualization potentials goes beyond plots. It is built to include textures, 3D meshes, shapes and graphs.
+It also allows you to write custom shaders for advanced uses.
 
 ## Installation
 -----------------
@@ -12,7 +20,7 @@
 
 ## Support
 ----------
-
+For assistance in using this great visualization tool, send an email to the head of the development team at `adeoluwaagbakosi@gmail.com`.
 
 ## Contributing
 -----------------
